@@ -96,18 +96,25 @@ print(y_prednew)
 ## Output:
 Dataset
 ![329310796-5bfd1bab-c917-439a-b704-ccc834b3c6bb](https://github.com/user-attachments/assets/252ac870-60fe-46f6-82fe-d1832469f28a)
+
 Data types
 ![329310891-673238d6-78f7-4f11-ae12-7a4d37373d34](https://github.com/user-attachments/assets/3678b54f-2416-4658-92a4-2386efb53232)
+
 New dataset
 ![329310981-2f3befdc-e483-4622-b528-d094fd91bcf4](https://github.com/user-attachments/assets/18b7ce78-66a3-4e18-8240-05eb1dc96b86)
+
 Y values
 ![329311112-62bcf3a1-a6d6-4105-852d-31b05f5cab2d](https://github.com/user-attachments/assets/482998ef-74de-4d6e-8ce6-e30b069323b8)
+
 Accuracy
 ![329311917-4b336b75-ee0a-488d-898a-ec7c66288674](https://github.com/user-attachments/assets/f04529db-40a1-47da-9e1d-987ed59f202e)
+
 Y pred
 ![329311479-ede9b220-c365-4f22-914c-5d0b62c1c720](https://github.com/user-attachments/assets/19a44d43-8209-4299-9e5d-a2109a8fed56)
+
 New Y
 ![329311539-ea7536cc-4ec7-443b-8c69-82a311110908](https://github.com/user-attachments/assets/e78ceb8b-54f7-4925-bd5a-f0f2c43670ff)
+
 ![329311579-a1e09cc3-458a-45a3-ba60-deaf87e554e8](https://github.com/user-attachments/assets/01e3a889-882e-4cd6-ae5c-f4aaf02b56b9)
 ![329311628-e5795b77-f293-4244-b6aa-40a4414635cc](https://github.com/user-attachments/assets/12ea5da2-8f88-4ca5-bffe-d46c340ad547)
 
